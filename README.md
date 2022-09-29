@@ -39,18 +39,32 @@ In this report we need to know the following:
 - Description
 - Max Buildable Quantity
 
-
-
 ### Purchase Now Report
+
+This is a report that we will run periodically and it will tell us what we need to order today so it arrives 
 
 
 ### Forecast Report
 
+This is a report where we see all of the daily inventory levels per part until exhaustion.
 
-###
+In this report we need the following:
+- Item
+- Description
+- Date
+- On Hand
 
 ## Data
-TBD
+
+### Items
+
+### Inventory
+
+### Open Shipments
+
+### Open Purchases
+
+### Kits
 
 ## Deliverables
 TBD
