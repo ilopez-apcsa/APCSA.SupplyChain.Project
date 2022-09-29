@@ -57,17 +57,47 @@ In this report we need the following:
 ## Data
 
 ### Items
+- item_number = Item Number
+- item_description = Item Description
+- kit_flag = Denotes is a kit
+- food_group = What food group the item is in
+- weight_g = Item package weight in grams
+- kcal = Calories per package
+- protein_g = Protein per package in grams
+- fat_g = Fat per package in grams
+- carbs_g = Carbs per package in grams
 
 ### Inventory
+- item_number = Item Number
+- qty = Qty On hand
 
 ### Open Shipments
 
+- shipment_number = Ship Number
+- shipment_date = Expected Ship Date
+- item_number = Item Number
+- ship_qty = Qty to Ship
+
 ### Open Purchases
 
-### Kits
+- purchase_number = Purchase Number
+- expected_arrival_date = Expected Arrival Date
+- item_number = Item Number
+- purchase_qty = Purchase Qty
+
+### Kit Items
+
+- kit_item_number = Parent Item
+- child_item_number = Child Item Number
+- child_qty = Child Quantity in Kit
 
 ## Deliverables
-TBD
+
+- All reports should be readable in Microsoft Excel/Google Sheets/OpenOffice Sheets.
+- The first row should include the title of the report.
+- The second row should include the date of when the report was generated.
+- The third row should be the report columns
+- The fourth and subsequent rows should be the report data.
 
 
 ## FAQ
