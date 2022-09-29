@@ -7,7 +7,7 @@ You are the new Software Development intern for a local area food-bank/pantry. Y
 ## Introduction
 Welcome to the Pacific Northwest Food Bank (PNWFB). We are super glad you are here!
 
-We provide a incredibly important resource to the community, and our donors/supporters have high expectations to make sure their monies are well used.
+We provide a incredibly important resource to the community, and our supporters have high expectations to make sure their donations are well used.
 
 But we have a problem.  Our inventory management software cannot give us proper reports/tools to help us plan the needs we have for the area.
 
@@ -66,6 +66,7 @@ In this report we need the following:
 - protein_g = Protein per package in grams
 - fat_g = Fat per package in grams
 - carbs_g = Carbs per package in grams
+- lead_time_d = Lead time in calendar days
 
 ### Inventory
 - item_number = Item Number
